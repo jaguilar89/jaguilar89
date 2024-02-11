@@ -53,6 +53,7 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>  
 
+## Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaguilar89&show_icons=true&theme=dark&title_color=1f6feb&text_color=484f58&locale=en&layout=compact" alt="jaguilar89" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaguilar89&theme=dark" alt="jaguilar89" /></p>
