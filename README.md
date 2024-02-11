@@ -3,13 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jaguilar89&label=Profile%20views&color=0e75b6&style=flat" alt="jaguilar89" /> </p>
 
-<p align="center">🔭 I’m currently working on <a href="https://github.com/jaguilar89/code-snippet-manager">a code snippet manager built in Next.js</a></p>
-<p align="center">🌱 I’m currently learning <strong>Next.js</strong></p>
-<p align="center">👯 I’m looking to collaborate on <strong>anything!</strong></p>
-<p align="center">👨‍💻 All of my projects are available at <a href="https://jaguilar.dev">https://jaguilar.dev</a></p>
-<p align="center">📝 I regularly write articles on <a href="https://dev.to/jaguilar89">https://dev.to/jaguilar89</a></p>
-<p align="center">💬 Ask me about <strong>freaky facts about the universe.</strong></p>
-<p align="center">📫 How to reach me <strong>joseaguilardev@gmail.com</strong></p>
+<p align="center">🔭 I’m currently working on: <a href="https://github.com/jaguilar89/code-snippet-manager">a code snippet manager built in Next.js</a></p>
+<p align="center">🌱 I’m currently learning: <strong>Next.js</strong></p>
+<p align="center">👯 I’m looking to collaborate on: <strong>anything!</strong></p>
+<p align="center">👨‍💻 All of my projects are available at: <a href="https://jaguilar.dev">https://jaguilar.dev</a></p>
+<p align="center">📝 I regularly write articles on: <a href="https://dev.to/jaguilar89">https://dev.to/jaguilar89</a></p>
+<p align="center">💬 Ask me about: <strong>freaky facts about the universe.</strong></p>
+<p align="center">📫 How to reach me: <strong>joseaguilardev@gmail.com</strong></p>
 <p align="center">📄 Know about my experiences: <a href="https://www.jaguilar.dev/documents/Jose_Aguilar_CV_2024.pdf">Download my CV</a></p>
 
 ### Blog Posts
