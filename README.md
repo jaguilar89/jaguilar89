@@ -19,6 +19,11 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Rich Text Editor with TinyMCE and React](https://dev.to/jaguilar89/creating-a-rich-text-editor-with-tinymce-and-react-3gdf)
+- [Exception Handling and Validations in Rails, and how to display errors to users.](https://dev.to/jaguilar89/exception-handling-and-validations-in-rails-and-how-to-display-errors-to-users-505l)
+- [The basics of Object-Oriented Programming in Ruby](https://dev.to/jaguilar89/the-basics-of-object-oriented-programming-in-ruby-2p9)
+- [Separation of Concerns and Single Source of Truth — writing cleaner code.](https://dev.to/jaguilar89/separation-of-concerns-and-single-source-of-truth-writing-cleaner-code-oo6)
+- [Deploying your first React app a with json-server backend on Heroku and Netlify](https://dev.to/jaguilar89/deploying-your-first-react-app-a-with-json-server-backend-on-heroku-and-netlify-anj)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
