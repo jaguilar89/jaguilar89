@@ -7,10 +7,9 @@
 <p align="center">🌱 I’m currently learning: <strong>Next.js</strong></p>
 <p align="center">👯 I’m looking to collaborate on: <strong>anything!</strong></p>
 <p align="center">👨‍💻 All of my projects are available at: <a href="https://jaguilar.dev">https://jaguilar.dev</a></p>
-<p align="center">📝 I regularly write articles on: <a href="https://dev.to/jaguilar89">https://dev.to/jaguilar89</a></p>
 <p align="center">💬 Ask me about: <strong>freaky facts about the universe.</strong></p>
 <p align="center">📫 How to reach me: <strong>joseaguilardev@gmail.com</strong></p>
-<p align="center">📄 Know about my experiences: <a href="https://www.jaguilar.dev/documents/Jose_Aguilar_CV_2024.pdf">Download my CV</a></p>
+<p align="center">📄 Know about my experience: <a href="https://www.jaguilar.dev/documents/Jose_Aguilar_CV_2024.pdf">Download my CV</a></p>
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -23,15 +22,18 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/jaguilar89" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://jaguilar.dev" target="_blank">
+<img src=https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 alt=portfolio style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/jaguilar89" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+<a href="mailto:joseaguilardev@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/jaguilar89" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
+<a href="https://dev.to/jaguilar89" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
 </div>  
 
 ## Languages and Tools  
