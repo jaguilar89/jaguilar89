@@ -5,7 +5,8 @@
 
 <p align="center">🔭 I’m currently working on: <a href="https://github.com/jaguilar89/code-snippet-manager">a code snippet manager built in Next.js</a></p>
 <p align="center">🌱 I’m currently learning: <strong>Next.js</strong></p>
-<p align="center">👯 I’m looking to collaborate on: <strong>anything!</strong></p>
+<p align="center">😃 I'm excited about: <strong>being a part of <a href="https://the-collab-lab.codes/">The Collab Lab</a> cohort for February thru April 2024. </strong>
+<p align="center">👯 I’m looking to collaborate on: <strong>anything fun and challenging!</strong></p>
 <p align="center">👨‍💻 All of my projects are available at: <a href="https://jaguilar.dev">https://jaguilar.dev</a></p>
 <p align="center">💬 Ask me about: <strong>freaky facts about the universe.</strong></p>
 <p align="center">📫 How to reach me: <strong>joseaguilardev@gmail.com</strong></p>
