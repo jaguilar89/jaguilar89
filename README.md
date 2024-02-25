@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Jose</h1>
-<h3 align="center">A passionate Full Stack Developer and IT Specialist based in NYC</h3>
+<h3 align="center">Full Stack Developer and IT Specialist based in NYC</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jaguilar89&label=Profile%20views&color=0e75b6&style=flat" alt="jaguilar89" /> </p>
 
@@ -8,7 +8,6 @@
 <p align="center">😃 I'm excited about: <strong>being a part of <a href="https://the-collab-lab.codes/">The Collab Lab</a> cohort for February thru April 2024. </strong>
 <p align="center">👯 I’m looking to collaborate on: <strong>anything fun and challenging!</strong></p>
 <p align="center">👨‍💻 All of my projects are available at: <a href="https://jaguilar.dev">https://jaguilar.dev</a></p>
-<p align="center">💬 Ask me about: <strong>freaky facts about the universe.</strong></p>
 <p align="center">📫 How to reach me: <strong>joseaguilardev@gmail.com</strong></p>
 <p align="center">📄 Know about my experience: <a href="https://www.jaguilar.dev/documents/Jose_Aguilar_CV_2024.pdf">Download my CV</a></p>
 
