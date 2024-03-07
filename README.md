@@ -9,7 +9,7 @@
 <p align="center">👯 I’m looking to collaborate on: <strong>anything fun and challenging!</strong></p>
 <p align="center">👨‍💻 All of my projects are available at: <a href="https://jaguilar.dev">https://jaguilar.dev</a></p>
 <p align="center">📫 How to reach me: <strong>joseaguilardev@gmail.com</strong></p>
-<p align="center">📄 Know about my experience: <a href="https://www.jaguilar.dev/documents/Jose_Aguilar_CV_2024.pdf">Download my CV</a></p>
+<p align="center">📄 Know about my experience: <a href="https://www.jaguilar.dev/documents/Jose Aguilar_CV_02_2024.pdf">Download my CV</a></p>
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
